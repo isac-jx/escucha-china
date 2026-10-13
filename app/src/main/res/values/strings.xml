@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escucha China</string>
+
+    <string name="history">Historial</string>
+    <string name="history_title">Conversaciones guardadas</string>
+    <string name="no_sessions">Aún no hay conversaciones guardadas.</string>
+
+    <string name="record">Grabar</string>
+    <string name="stop">Detener</string>
+
+    <string name="es">ES</string>
+    <string name="en">EN</string>
+
+    <string name="tap_to_start">Toca Grabar para empezar</string>
+    <string name="recording_time">Grabando  %1$02d:%2$02d</string>
+
+    <string name="session_subtitle">%1$d frases · %2$02d:%3$02d</string>
+    <string name="delete">Borrar</string>
+    <string name="share">Compartir</string>
+    <string name="not_found">No se encontró la conversación.</string>
+
+    <!-- Configuración inicial -->
+    <string name="setup_explain">La primera vez hay que descargar los modelos de voz y traducción (una sola vez, con wifi, ~300 MB). Después todo funciona sin internet.</string>
+    <string name="download_models">Descargar modelos</string>
+    <string name="preparing">Preparando…</string>
+    <string name="downloading_item">Descargando %1$d/%2$d: %3$s (%4$d%%)</string>
+    <string name="downloading_translation">Descargando modelos de traducción…</string>
+    <string name="download_error">Error al descargar: %1$s</string>
+    <string name="ready_offline">¡Listo! Ya funciona sin internet.</string>
+
+    <!-- Avisos -->
+    <string name="need_mic">Necesito permiso del micrófono para grabar.</string>
+    <string name="need_models">Primero descarga los modelos.</string>
+    <string name="notif_recording">Grabando y traduciendo…</string>
+</resources>
